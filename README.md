@@ -41,6 +41,13 @@ The **Tire Pressure Monitoring System (TPMS)** is a critical safety feature in m
 - Reduced testing time per variant from **1 month to 1 week**.
 - Improved efficiency and minimized manual testing efforts.
 
+**Key Contributions**
+- Conducted comprehensive static and dynamic testing before production deployment.
+- Performed requirement-based testing to verify developer specifications.
+- Tested three different TPMS variants: Sensata, Continental, and Baolong.
+- Reduced testing time per variant from 1 month to 1 week through automation.
+- Improved efficiency recognized as a major accomplishment by the team.
+
 ### **6. Results & Impact**
 - Identified critical software bugs before production deployment.
 - Improved **system robustness** against false alerts and sensor failures.
